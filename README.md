@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi, I'm Sebastiano
 
-<!--
+I'm a 16 year old I.T. student and aspiring developer based in Bolzano, Italy. 
+
+<!-- 
 **Shark2306/Shark2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
